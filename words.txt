@@ -1,0 +1,43 @@
+pig
+bird
+alien
+narwhale
+ostrich
+horse
+phone
+sniffer
+penguin
+jaguar
+
+bought
+stole
+shot
+kicked
+turned on
+threw
+talked to
+fought with
+ate
+killed
+
+green
+purple
+funny
+annoying
+stupid
+salty
+saucy
+sticky
+slippery
+slutty
+
+very
+stunningly
+incredibly
+strangely
+especially
+peculiarly
+unbelievably
+tremendously
+horrifically
+tenaciously
